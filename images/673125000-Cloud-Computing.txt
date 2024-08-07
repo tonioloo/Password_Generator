@@ -1,0 +1,430 @@
+Chapter 1:
+Module 1
+
+Quiz:
+
+1.Why do networks divide large files into smaller packets and then reassemble them
+into the original file at the destination?
+Ans:To avoid blocking the network with a large file
+
+2.What feature of computer networks ensures that your device transmits the
+information in an email correctly and efficiently to the device of the recipient?
+Ans:Network Protocols
+
+3.What does the networking hardware use the metadata to do?
+Ans:Reassemble the packets into the original file in the right order.
+
+4.How does cloud computing improve on the early internet server model?
+Ans:By separating server features into distinct functions and using specially
+designed and dedicated servers to perform them.
+
+5.What is the smallest unit of measurement that computer scientists use when
+measuring data?
+Ans:Bit
+
+
+Module 2
+
+Quiz:
+1)What is the primary role of a data center?
+Ans:To provide a secure and controlled environment for the reliable operation of
+cloud infrastructure
+
+2)Tom is a network administrator who is responsible for provisioning resources,
+monitoring usage, and enforcing security policies for his company’s cloud. Which
+component of the cloud can he use
+Ans:Management software
+
+3)Swift Auto Solutions is a national car rental company that recently started using
+cloud applications such as natural language processing (NLP) and image recognition
+into its new chatbot. They aim to help customers get fast answers to their car
+rental questions.
+Which of the following statements reflects a benefit the business can expect from
+using cloud services?
+Ans: The customer service process should be easier, faster, and more reliable for
+customers and the business.
+
+4)The storage, bandwidth, and processing power of the cloud make many innovations
+possible. Which of the following are innovations that the cloud enables?
+Ans:
+Personal digital assistants
+Global identity access management (IAM)
+
+5)Why do cloud providers have data centers located all over the world?
+Ans:To improve speed and reliability for users
+
+Module 3:
+
+1)Cloud computing distributes the functions of computing hardware over hundreds
+and, in most cases, thousands of computers, which enables users to use as much or
+as little power as they need when they need it. What do computer engineers call
+this characteristic of cloud computing?
+Ans:Scalability
+
+2)Which cloud service enables you to set up one account with many cloud providers
+to gain access to a variety of software and services?
+Ans:Single sign-on
+
+3)FortuneFirst Financial Group is using the cloud to break down their payment
+processing system into smaller, independent parts that can do specific jobs of the
+process, such as payment authorization, fraud detection, and transaction
+processing.
+This is an example of which cloud service?
+Ans:Workloads
+
+4)Harjeet uploads a presentation to the cloud from his desktop at work. Later, at
+home, he accesses the file from his work laptop to make a few changes. The next
+day, before his presentation, he uses his work cell phone to open the file again to
+review the presentation.
+What characteristic of cloud computing is demonstrated by this scenario?
+Ans: Avaliability
+
+5)A number of organizations have adopted work-from-home policies. What user benefit
+of the cloud enables remote work and lets users easily collaborate with others?
+Ans:Flexibility
+
+Module 4:
+
+1)Fill in the blank. Cloud developers can use a lightweight form of virtualization
+technology called __________ to reduce costs and make their applications faster
+Ans:containers
+
+2)Which of the following emerging technologies will be able to process information
+billions of times faster than today’s computers?
+Ans:Quantum Computing
+
+3)A large data center is upgrading their graphics processing units (GPUs) to
+decrease the time it takes to run intensive calculations like image recognition and
+improve performance for certain types of jobs.
+What improvement in computer technology is this an example of?
+Ans: Increasing processing power
+
+4)Which of the following advancements in technology involves processing data close
+to where it is generated to improve application performance and reduce delays?
+Ans:Edge computing
+
+5)Pablo just added smart lightbulbs and a robot vacuum to his home. Using his
+smartwatch, he can automate when the lightbulbs turn on and where his robot vacuum
+will clean. He can even tell his home voice assistant to turn off his lights.
+Which of the following types of technology provides this control to Pablo?
+Ans:Internet of Things (IoT)
+
+Final Assessment:
+1)Which of the following technologies includes advances in cellular and wireless
+technology that will dramatically increase connectivity to the cloud, making using
+the cloud more seamless?
+Ans:5G, Wi-Fi 6, and beyond
+
+2)Most cloud systems use virtual machines (VMs). What is a virtual machine?
+Ans:It’s a software-based computer that runs on a physical computer.
+
+3)Cloud Solutions is a cloud service provider that offers data centers all over the
+world as part of their services so the data centers are physically close to their
+users. What can users expect from this?
+Select all that apply.
+Ans:
+     Data transfers are less prone to error.
+     Users can access data more quickly.
+     Users can automatically scale up their computing power.
+
+FJ Bank uses a cloud service provider that has robust and effective measures to
+protect their customers’ financial data.
+What user benefit of the cloud describes the protection offered by the cloud
+service provider?
+Ans:Security.
+
+Which of the following technologies enables even the smallest devices like
+lightbulbs and watches to connect to the cloud?
+Ans:Internet of Things (IoT)
+
+
+Imagine that you’ve recently accepted an information technology (IT) job with a
+team that focuses on cloud computing at a small company.
+What role does the data center play in the use of cloud computing for your new
+company?
+Ans:The data center enables your company to store and process vast amounts of data,
+run complex applications, and provide reliable connectivity to employees.
+
+Fill in the blank. Using ___________ as a cloud service, you can set up one account
+with multiple cloud providers and gain access to a variety of software.
+
+Ans: single sign-on
+
+
+Sam uses a mobile device that’s connected to the cloud to access his email,
+contacts, and data while he travels and works from different locations.What do
+computer engineers call this characteristic of cloud computing?
+Ans:Availability
+
+Imagine that you’re using cloud technology to enhance your internet at home. Which
+component of the cloud can you use to ensure that cloud systems move your data
+quickly and accurately over the internet?
+
+Ans:Networking devices
+
+What key area of cloud computing advancements will make the cloud more efficient as
+technology increases computing power while consuming less electrical power?
+Ans:Computer technology
+
+
+Fill in the blank. Using __________ as a cloud service, companies around the world
+can provide software to employees to write reports, design presentations, and
+create spreadsheets with data.
+Ans:apps
+
+The storage, bandwidth, and processing power of the cloud makes many important
+innovations possible. Which of the following innovations does using the cloud
+enable?
+Select all that apply.
+
+Ans:
+Dynamic mapping technology such as Google Maps
+Personal digital assistants like Siri
+Smart appliances
+
+
+Your manager assigns you to an international team to put together a presentation on
+a risk assessment for the business. Using the cloud makes it possible for your team
+to collaborate on the presentation in real time.
+
+
+
+What user benefit of the cloud enables you to easily collaborate with others?
+Ans :Flexibility
+
+Which of the following statements explains how cloud computing evolved?
+Ans: Cloud computing evolved from server farms, where many computers were networked
+to share tasks.
+
+Which of the following statements describes the basics of computer networking?
+
+Ans: It’s a group of computers interconnected through infrastructure and rules that
+share data with each other.
+
+Chapter 2:
+
+Module 1:
+Quiz:
+A small medical tech start-up develops new software for analyzing medical images.
+The software needs to quickly analyze vast amounts of data to achieve high
+accuracy.
+
+
+1)What part of cloud technology enables this type of AI?
+Ans: Processing power
+
+2)Nate uses his word processing and spreadsheet software on any device over the
+internet with the cloud.
+Since this is a software as a service (SaaS) model, which of the following tasks
+does Nate NOT need to perform?
+
+Ans: Install and manage the software.
+
+3)A medium-sized e-commerce company is experiencing rapid growth and has run out of
+storage to keep up with the volume of product, customer, and transaction
+information.
+Which cloud service model would they benefit from implementing?
+Ans:Database as a Service (DBaaS)
+
+4)Which cloud service model enables users to access physical computing components
+such as servers, storage, and networking components using the internet?
+Ans:Infrastructure as a Service (IaaS)
+
+5)Which cloud service model provides developers with a way to develop, run, and
+manage their applications over the internet?
+Ans:Platform as a Service (PaaS)
+Module 2:
+Quiz:
+
+1)Companies can use open source software without modification to help them build
+their cloud solutions. What other ways can they utilize open source software?
+Select all that apply.
+Ans:
+Use open source software to supplement or enhance proprietary software.
+Use open source software by modifying it to fit their needs.
+
+2)Fill in the blank. _____________ software is protected by intellectual property
+laws. The public cannot access the source code for this type of software.
+Ans:Proprietary
+
+3) Shauna is working on a communication app for gamers, alongside many other
+developers from the gamer community. Anyone can access and modify the source code
+for the app, providing they accept the terms of the license. What type of software
+is Shauna working on?
+Ans:Open source
+
+4)Which of the following circumstances might prompt a company to develop
+proprietary software for a cloud solution?
+Ans: High risk of security issues
+
+5)What can developers expect when they work with open source software?
+Select all that apply.
+Ans:Developers can review the source code to make sure it’s secure and free of
+vulnerabilities for their cloud solution.
+Developers can often use it for free and work with a community of other developers
+who contribute ideas.
+
+Module 3:
+Quiz:
+1)Fill in the blank. __________ is known for providing strong support to businesses
+and integrating with its own products so businesses that already use their products
+can easily adopt the cloud services.
+
+Ans: Microsoft Azure
+
+2)AWS is the largest provider of cloud services to businesses and developers. Which
+of the following statements is correct about the tools AWS offers for the cloud?
+Select all that apply.
+Ans:
+AWS provides machine learning and AI services to use for content and analysis.
+AWS provides analytic tools so businesses can collect and analyze data.
+AWS offers a global network of groups, clubs, and events for learning and sharing.
+
+3) How does IBM Cloud differentiate itself from other cloud providers?
+Ans:By offering hybrid cloud service, AI, and the emerging quantum computing
+technology
+
+4)What are some typical features that a business can expect when they work with a
+major cloud provider? Select all that apply.
+
+Ans:A fast and reliable cloud experience with data centers around the world.
+A range of standard services, including IaaS, PaaS, and SaaS.
+
+5)You’re a developer helping a friend who owns a small business that does
+investigative work for law firms. Your friend needs to store client files and share
+documents between two offices. Together you decide to build an open source cloud.
+Which of the following steps do you need to perform as part of your development?
+
+Ans:Choose an open source cloud storage platform that you can configure to set up
+employees with the permissions they need to access the files.
+
+Module 4:
+
+1)Harpreet is developing a service that fulfills orders for small businesses. He’s
+not sure how popular the service will become, so instead of buying servers,
+networking hardware, and storage space and maintaining them, he decides to use the
+cloud. What type of service model is Harpreet using?
+
+Ans: IaaS
+
+2)Fill in the blank. With ____________, a company can potentially increase
+productivity and promote collaboration because employees have access to the suite
+of secure, cloud-based tools and files they need to do their work from anywhere.
+
+Ans: SaaS
+
+3) A software developer is working on a new company application for submitting
+business expenses for reimbursement.Using their cloud provider’s PaaS offering,
+what capabilities can the software developer expect? Select all that apply.
+Ans:
+Business analytics to analyze data from the application to make decisions about how
+to improve it in the future
+Dashboards to monitor the performance of the application to make sure it’s running
+smoothly
+Built-in frameworks to greatly simplify API development and management
+
+4)A city’s cloud computing system needs to properly handle an increase in web
+traffic when reporting vote results in an upcoming election. A lot of people will
+be visiting the city website to view latest counts the day of and the day after the
+election. What cloud service does the city need?
+
+Ans: IaaS to scale out their cloud service to handle more web traffic on those two
+days
+
+5)A large online retail company sees a spike in business during the holiday season
+and they use the scale out functionality of their cloud provider’s IaaS service to
+scale their website as needed. By scaling out their infrastructure, what benefits
+does the company gain?Select all that apply.
+Ans: They ensure that their website is available and responsive.
+They only pay for extra infrastructure when they need it.
+
+Final Assessment:
+
+1)Which of the following is a benefit of using proprietary software?
+Ans: It ensures that developers are compliant with licensing terms and avoid legal
+issues.
+
+2)An insurance company wants to rapidly develop a website to inform drivers about
+the benefits of safe driving. They use a hybrid cloud infrastructure and are
+considering using a pre-built open source software package on the public cloud to
+build the site. Why is using open source software a good choice in this scenario?
+Ans:Using the open source software package could help the company develop their
+website more quickly.
+3)Which of the following is a popular cloud service provider that offers a suite of
+artificial intelligence (AI) tools and services that leverage natural language
+processing (NLP), machine learning, and deep learning to analyze large amounts of
+unstructured data?
+Ans:IBM Cloud
+
+4)Vasanthi is working as a cloud developer for a small biotech company. They are
+developing a new drug and want to use a private open source cloud to run
+simulations and experiments on their own servers without risking data breaches.
+Which of the following is correct about an open source cloud? Select all that
+apply.
+Ans:
+Developers can deploy open source clouds on company-owned computers.
+There are many open source tools available for building a personal or company
+cloud.
+
+5)Anand is a data analyst who concludes insights from customer feedback about his
+company’s products. Anand can access his software and collect the data he needs
+from his work laptop and smart phone, whether he’s in the office or at home. Which
+cloud service model enables him to do this?
+Ans: Software as a service (SaaS)
+
+6)How does AWS differentiate itself from other cloud providers?
+Ans: By providing strong support and integration with its products
+
+7)A small start-up company is building a new social media application. They have a
+small design budget and want to build uniform features that are familiar to users.
+What is one advantage of using an open source approach rather than using
+proprietary software?
+Ans:Open source software allows the company to use existing code and resources,
+which can save time and money.
+
+8)Which cloud service model enables the use of virtual machine computing resources
+for customers to run their applications in the cloud?
+Ans : Infrastructure as a service (IaaS)
+
+9) Kendra is collaborating with co-workers on a spreadsheet their manager created.
+The company realizes its employees need to be productive and collaborate using
+office tools around the world.
+Which cloud service model could provide value to this company?
+Ans: Software as a service (SaaS)
+
+10)An online retail company sees spikes in traffic on their website around
+holidays. The company needs a cloud service that can scale up during high traffic
+months and scale down in low traffic months.Which cloud service model could provide
+value to this company?
+Ans: Infrastructure as a service (IaaS)
+
+11)A local company is opening a second location and both sites need access to all
+company data. They know that it will be a large and expensive project to build out
+the infrastructure and hardware, so they are looking to the cloud. Which cloud
+service model is most appropriate for this company?
+
+Ans: Infrastructure as a service (IaaS)
+
+12)A bank is researching new customer management software. Why might the bank
+choose an in-house, proprietary software solution over open source for this
+application?
+Ans: Proprietary software gives the bank more visibility into the security of the
+software
+
+13) Todd’s company provides virtual courses for students and gathers vast amounts
+of information, including the number of video views, minutes of video watched, and
+student comments on lessons. Todd is tasked with figuring out how to best store all
+the information that the company collects. What cloud service model would Todd
+benefit from implementing?
+Ans: Database as a service (DBaaS)
+
+14) Aidan is a gamer who wants to create and launch his own video game that can
+reach some of his gamer friends around the globe. Which cloud provider should he
+choose if he would like a dedicated gaming service in the cloud?
+Ans: Microsoft Azure
+
+15) A start-up company wants to launch a new online service. They need to access
+ready-made tools and an infrastructure for developing, testing, and hosting their
+application. Which cloud service model is most appropriate for this company?
+Ans: Platform as a service (PaaS)
+

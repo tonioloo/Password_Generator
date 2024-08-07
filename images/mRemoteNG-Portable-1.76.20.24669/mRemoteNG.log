@@ -1,0 +1,15 @@
+2024-04-12 17:31:08,795 [1] INFO  - mRemoteNG 1.76.20.24669 Edição portátil starting.
+2024-04-12 17:31:08,802 [1] INFO  - Command Line: C:\Users\Gabriel-Ribeiro\Desktop\Projetos\Password_Generator\images\mRemoteNG-Portable-1.76.20.24669\mRemoteNG.exe
+2024-04-12 17:31:09,969 [1] INFO  - Microsoft Windows 10 Pro  64-bit
+2024-04-12 17:31:09,969 [1] INFO  - Microsoft .NET CLR 4.0.30319.42000
+2024-04-12 17:31:09,972 [1] INFO  - System Culture: pt-BR/português (Brasil)
+2024-04-12 17:31:09,972 [1] INFO  - Checking FIPS Policy...
+2024-04-12 17:31:09,974 [1] INFO  - Checking Lenovo AutoScroll Utility...
+2024-04-12 17:31:10,155 [1] WARN  - Loading External Apps failed: Could not FIND file!
+2024-04-12 17:31:10,791 [1] INFO  - Saving connections...
+2024-04-12 17:31:10,838 [1] INFO  - Successfully saved connections
+2024-04-12 17:31:11,113 [1] WARN  - PuttySessions.Watcher.StartWatching() failed.
+Não encontrado 
+2024-04-12 17:31:11,113 [1] WARN  - XmingPortablePuttySessions.Watcher.StartWatching() failed: 'sessions' does not exist.
+2024-04-12 17:39:36,519 [1] INFO  - Saving connections...
+2024-04-12 17:39:36,532 [1] INFO  - Successfully saved connections
